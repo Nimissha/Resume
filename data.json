@@ -1,0 +1,49 @@
+{
+"career":{
+"Info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+"degree":"S.S.C",
+"School":"KVRTS",
+"date":["2013","90%"]
+},
+{
+"degree":"Inter/Deploma",
+"School":"Narayana",
+"date":["2013-15","90%"]
+},
+{
+"degree":"B-Tech(C.S.E)",
+"School":"GPCET",
+"date":["2015-19","70%"]
+}
+
+],
+"skills":[
+{
+"name":"Languages",
+"info":["C","C++","C#","Java","PHP"]
+},
+{
+"name":"Operating System",
+"info":["Fedora","Windows10","Ubuntu"]
+},
+{
+"name":"Batadase",
+"info":["MYSQL","Mongo","Oracle"]
+},
+{
+"name":"Web technologies",
+"info":["HTML","Javascript","CSS"]
+},
+{
+"name":"Frame works",
+"info":[".NET","BootStrap","codeigniter"]
+},
+{
+"name":"Libraries",
+"info":["Jquery"]
+}
+]
+}
